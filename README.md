@@ -13,6 +13,9 @@ A simple REST API built in Go for uploading documents to Google Cloud Storage.
 - Health check endpoint
 - Graceful shutdown
 
+<img width="680" height="484" alt="image" src="https://github.com/user-attachments/assets/e98f863e-bba4-48ba-a302-d16ce44bff74" />
+
+
 ## Prerequisites
 
 1. Google Cloud Project with Storage API enabled
